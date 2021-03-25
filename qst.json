@@ -1,0 +1,334 @@
+{
+    "time_seconds": 300,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Tu ... à la montagne.",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "As",
+            "correct": false
+          },
+          
+          {
+            "id": 2,
+            "answer": "A",
+            "correct": false
+          },
+          
+          {
+            "id": 3,
+            "answer": "Es",
+            "correct": true
+          },
+          
+          {
+            "id": 4,
+            "answer": "Est",
+            "correct": false
+          },
+          {
+            "id": 5,
+            "answer": "Je ne sais pas",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Elles sont .... .",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Italien",
+            "correct": false
+          },
+          
+          {
+            "id": 2,
+            "answer": "Itallienne",
+            "correct": false
+          },
+          
+          {
+            "id": 3,
+            "answer": "Italiene",
+            "correct": false
+          },
+          
+          {
+            "id": 4,
+            "answer": "Italiennes",
+            "correct": true
+          },
+          
+          {
+            "id": 5,
+            "answer": "Je ne sais pas",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Il ... bien anglais.",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Parle",
+            "correct": true
+          },
+          
+          {
+            "id": 2,
+            "answer": "Parles",
+            "correct": false
+          },
+          
+          {
+            "id": 3,
+            "answer": "Parlez",
+            "correct": false
+          },
+          
+          {
+            "id": 4,
+            "answer": "Parlent",
+            "correct": false
+          },
+          
+          {
+            "id": 5,
+            "answer": "Je en sais pas",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Je vais ... Cinéma.",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "A-le",
+            "correct": false
+          },
+          
+          {
+            "id": 2,
+            "answer": "A la",
+            "correct": false
+          },
+          
+          {
+            "id": 3,
+            "answer": "Au",
+            "correct": true
+          },
+          
+          {
+            "id": 4,
+            "answer": "Aux",
+            "correct": false
+          },
+          
+          {
+            "id": 5,
+            "answer": "Je ne sais pas",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Il est 17h15. Ou autrement : ",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Cinq heures le quart",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "answer": "Cinq heures et quart",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "answer": "Cinq heures et le quart",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "answer": "Cinq heures moins le quart",
+            "correct": false
+          },
+          {
+            "id": 5,
+            "answer": "Je ne sais pas",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Je bois ... eau.",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Beaucoup de",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "answer": "Beaucoup d’",
+            "correct": true
+          },
+          {
+            "id": 3,
+            "answer": "Beaucoup de l’",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "answer": "Beaucoup de la",
+            "correct": false
+          },
+          {
+            "id": 5,
+            "answer": "Je ne sais pas",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Elle a ... de succès que son frère.",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Autant",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "answer": "Pourtant",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "answer": "Aussi",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "answer": "Bien",
+            "correct": false
+          },
+          {
+            "id": 5,
+            "answer": "Je ne sais pas",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "question": "... est votre profession ?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Quelle",
+            "correct": true
+          },
+          
+          {
+            "id": 2,
+            "answer": "Quel",
+            "correct": false
+          },
+          
+          {
+            "id": 3,
+            "answer": "Quels",
+            "correct": false
+          },
+          
+          {
+            "id": 4,
+            "answer": "Quell’",
+            "correct": false
+          },
+          
+          {
+            "id": 5,
+            "answer": "Quell’",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "question": "Je parle à mon chef. Je ... Parle.",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Le",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "answer": "La",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "answer": "Lui",
+            "correct": true
+          },
+          {
+            "id": 4,
+            "answer": "Leur",
+            "correct": false
+          },
+          {
+            "id": 5,
+            "answer": "Je ne sais pas",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "question": "L’homme ... vous voyez est mon ami.",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Qui",
+            "correct": false
+          },
+          {
+            "id": 2,
+            "answer": "Dont",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "answer": "Ou",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "answer": "Que",
+            "correct": true
+          },
+          {
+            "id": 5,
+            "answer": "Je ne sais pas",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  }
